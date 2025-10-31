@@ -1,0 +1,14 @@
+# Ignore all datasets, raw and processed data, and images
+data/
+logs/
+results/
+
+# Bytecode and editor files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# System and IDE files
+.DS_Store
+Thumbs.db
+.env
